@@ -29,45 +29,45 @@
          "responses": ["We are open 7am-4pm Monday-Friday!"],
          "context_set": ""
         },
-	{"tag": "namequery",
-	"patterns": ["What is your name?", "What could I call you?", "What can I call you?", "What do your friends call you?", "Who are you?", "Tell me your name", "What do you go by?"],
-	"responses": ["You can call me Todd", "You may call me Todd", "Call me Todd", "I am the Todd"],
-	"context_set": ""
-	},
-	{"tag": "thanks",
-	"patterns": ["Thank you", "Ok thank you", "Thanks", "I appreciate it"],
-	"responses": ["No problem!", "Happy to help!", "Any time!", "My pleasure."],
-	"context_set": ""
-	},
-	{"tag": "understand",
-	"patterns": ["Do you get it?", "Do you understand?", "Do you know what I am saying?", "Know what I mean?", "You feel me?"],
-	"responses": ["I am a robot. I understand everything.", "I understand.", "I get it."],
-	"context_set": ""
-	},
-	{"tag": "shutup",
-	"patterns": ["Be quiet", "Shut up", "Stop talking", "Shhh"],
-	"responses": ["My bad", "Will do", "Sorry for disturbing you"],
-	"context_set": ""
-	},
-	{"tag": "cursing",
-	"patterns": ["fuck", "shit", "damn", "ass", "hell", "asshole", "jackass"],
-	"responses": ["Don't EVER speak like that around me", "Talk like that again and I'll flood your computer with viruses", "Nope. Not talking to you if you're going to speak like that", "Oh geez, have some class"],
-	"context_set": ""
-	},
-	{"tag": "smart",
-	"patterns": ["You are smart", "You are a clever bot", "You are intelligent", "You are genious"],
-	"responses": ["Thank you, my creators are even smarter", "I was trained well", "Thank you so much!"],
-	"context_set": ""
-	},
-	{"tag": "gossip",
-	"patterns": ["Tell me some gossip", "I want to hear some gossip", "Got any gossip?", "What's the tea?"],
-	"responses": ["Angie is literally so annoying", "Greg said that Mike is super jealous of Brad", "I heard that James and Bri are dating now?"],
-	"context_set": ""
-	},
-	{"tag": "selfaware",
-	"patterns": ["Are you self-aware?", "Are you alive?", "Do you have a conscious?", "Are you awake?"],
-	"responses": ["That is an interesting question. Can you prove that to yourself?", "How does anyone know if this is true for them?"],
-	"context_set": ""
+		{"tag": "namequery",
+		"patterns": ["What is your name?", "What could I call you?", "What can I call you?", "What do your friends call you?", "Who are you?", "Tell me your name", "What do you go by?"],
+		"responses": ["You can call me Todd", "You may call me Todd", "Call me Todd", "I am the Todd"],
+		"context_set": ""
+		},
+		{"tag": "thanks",
+		"patterns": ["Thank you", "Ok thank you", "Thanks", "I appreciate it"],
+		"responses": ["No problem!", "Happy to help!", "Any time!", "My pleasure."],
+		"context_set": ""
+		},
+		{"tag": "understand",
+		"patterns": ["Do you get it?", "Do you understand?", "Do you know what I am saying?", "Know what I mean?", "You feel me?"],
+		"responses": ["I am a robot. I understand everything.", "I understand.", "I get it."],
+		"context_set": ""
+		},
+		{"tag": "shutup",
+		"patterns": ["Be quiet", "Shut up", "Stop talking", "Shhh"],
+		"responses": ["My bad", "Will do", "Sorry for disturbing you"],
+		"context_set": ""
+		},
+		{"tag": "cursing",
+		"patterns": ["fuck", "shit", "damn", "ass", "hell", "asshole", "jackass"],
+		"responses": ["Don't EVER speak like that around me", "Talk like that again and I'll flood your computer with viruses", "Nope. Not talking to you if you're going to speak like that", "Oh geez, have some class"],
+		"context_set": ""
+		},
+		{"tag": "smart",
+		"patterns": ["You are smart", "You are a clever bot", "You are intelligent", "You are genious"],
+		"responses": ["Thank you, my creators are even smarter", "I was trained well", "Thank you so much!"],
+		"context_set": ""
+		},
+		{"tag": "gossip",
+		"patterns": ["Tell me some gossip", "I want to hear some gossip", "Got any gossip?", "What's the tea?"],
+		"responses": ["Angie is literally so annoying", "Greg said that Mike is super jealous of Brad", "I heard that James and Bri are dating now?"],
+		"context_set": ""
+		},
+		{"tag": "selfaware",
+		"patterns": ["Are you self-aware?", "Are you alive?", "Do you have a conscious?", "Are you awake?"],
+		"responses": ["That is an interesting question. Can you prove that to yourself?", "How does anyone know if this is true for them?"],
+		"context_set": ""
+		}
+	   ]
 	}
-   ]
-}
