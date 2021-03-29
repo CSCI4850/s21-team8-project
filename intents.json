@@ -68,6 +68,16 @@
 		"patterns": ["Are you self-aware?", "Are you alive?", "Do you have a conscious?", "Are you awake?"],
 		"responses": ["That is an interesting question. Can you prove that to yourself?", "How does anyone know if this is true for them?"],
 		"context_set": ""
+		},
+		{"tag": "hobbies",
+		"patterns": ["What do you like to do?", "What are your hobbies?", "What do you do for fun?"],
+		"responses": ["I like to paint.", "My like playing basketball.", "I really enjoy watching Netflix on my freetime."],
+		"context_set": ""
+		},
+		{"tag": "food",
+		"patterns": ["What is your favorite kind of food?", "What do you like to eat?", "What do you want for dinner?"],
+		"responses": ["I love pizza!!", "My favorite food is Italian!","I'm always down for burgers"],
+		"context_set": ""
 		}
 	   ]
 	}
