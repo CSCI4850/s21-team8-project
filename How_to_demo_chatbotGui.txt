@@ -1,0 +1,46 @@
+
+How to demo the Chatbot GUI
+
+
+Step 1
+
+- Install Anaconda (https://www.anaconda.com/)
+
+Step 2
+
+- open up anaconda program and launch the jupyter notebook instance
+
+- a webpage will open up that shows your computer's file system, navigate to where 
+the chatbot_guiDemo.ipynb notebook is stored
+
+
+Step 3 
+
+For the chat bot demo to run correctly it needs 2 files. 
+
+- chatbot model (scroll down to "How to get chatbot model" )
+
+- intents.json file
+
+
+NOTE !!!! 
+You may need to install tensorflow for your anaconda program. To do this open a new cell within a notebook and type "pip install tensorflow". Once this is done you will need to reload the kernel for the notebook before trying to import tensorflow again.
+
+
+
+Step 4
+
+- Once this is all accomplished you should be able to run the chatbot_guiDemo.ipynb notebook
+
+
+How to get chatbot model :
+
+In order to get the chatbot model you will want to run through the chatbot.ipynb file in the github repository. You should grab that file and place it in same directory as the chatbot demo notebook. Running through this notebook should produce your chatbot model and save it to the current directory. (The exact location where this command occurs (model.save("model.Chatbot")) happens right before the bag_of_words function definition)
+
+
+
+
+
+
+
+
