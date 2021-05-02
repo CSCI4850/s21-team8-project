@@ -61,10 +61,10 @@ Within a new cell you can type the command "import tensorflow" or "import tensor
 
 - Inside Jupyter Notebook, navigate to the directory where you downloaded this repository's files.
 
-- Within the directory that holds the repository's files, select the notebook titled
-**"Chatbot_Train_Demo_Combined"**. Once this notebook is open, in the notebook's toolbar, click the run command to run through the cells in the notebook. After running through the notebook, you will have trained and loaded up chatbot model and GUI to demo our chatbot.
+- if you want to run demo with **pretrained model** select the notebook titled **"chatbot_guiDemo.ipynb"** or if you want to run demo with **added training** select the notebook titled **"Chatbot_Train_Demo_Combined.ipynb"**
 
-
+- Once either notebook is open, in the notebook's toolbar, click the run command to run through the cells in the notebook. After running through either selected notebook, our 
+chatbot gui will appear for demonstration.
 
 Helpful Resources: 
 - https://docs.anaconda.com/anaconda/user-guide/getting-started/
