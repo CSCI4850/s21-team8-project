@@ -1,8 +1,12 @@
 # s21-team8-project 
 
 # Chatbot Group 
-
 ### Members: Brooke Bound, David Brugger, Jake Hagenow, Lorenzo McDaniel and Paula Pamplona Ramirez
+
+
+## Motivation
+Our goal was to successfully train and build a chatbot that would accurately be able to answer predetermined questions users would give it.
+Our inspiration for this project was based on previous Chatbots such as [Heek](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/), [Amtrack's Julie bot](https://www.amtrak.com/about-julie-amtrak-virtual-travel-assistant), and [Hazel](https://www.chiefmarketer.com/hgtv-developed-hazel-new-chatbot/). After building and training the chatbot, we built an instant message like application where a user can interact with the chatbot. We designed our chatbot, Todd to be a Bakery Store Clerk. Our chatbot can respond to questions about the bakery, or even engage in small talk such as gossip or telling jokes. With the techniques we used building this application you can easily change the [intents](https://www.helpshift.com/glossary/intent-in-chatbot/) file to tailor the chatbot to wide variety of applications such as a discord bot or customer service.
 
 
 ### Requirements:
@@ -59,7 +63,8 @@ Within a new cell you can type the command "import tensorflow" or "import tensor
 
 
 
-
 Helpful Resources: 
 - https://docs.anaconda.com/anaconda/user-guide/getting-started/
 - https://www.codecademy.com/articles/how-to-use-jupyter-notebooks
+
+
