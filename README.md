@@ -1,5 +1,6 @@
-# s21-team8-project -- Chatbot
+# s21-team8-project 
 
+# Chatbot Group 
 
 ### Members: Brooke Bound, David Brugger, Jake Hagenow, Lorenzo McDaniel and Paula Pamplona Ramirez
 
