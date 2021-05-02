@@ -40,7 +40,7 @@ Once Anaconda is installed on your computer, Anaconda will show up in your progr
 
 Before you can launch the demo you will need to install tensor flow for your version of anaconda.
 Within a new notebook do the following: 
-- To create a new notebook, go to New and select Notebook - Python 3
+- To create a new notebook, in the Jupyter toolbar go to New and select Notebook - Python 3
 - Inside this new notebook, click within the cell and type "pip install tensorflow". After running this cell you will have to wait for the files to finish downloading to your system. 
 
 - You can test that tensoflow is properly installed by importing the tensorflow package.
