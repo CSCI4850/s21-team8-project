@@ -60,7 +60,7 @@ Within a new cell you can type the command "import tensorflow" or "import tensor
 ### Demo the Chatbot
 
 - Inside Jupyter Notebook, navigate to the directory where you downloaded this repository's files.
-- In the Demo Folder you will find all the files needed to run the chatbot Demo.
+- Navigate once more to the Demo directory, this is where you will find all the files needed to run the chatbot Demo.
 
 
 - if you want to run demo with **pretrained model** select the notebook titled **"chatbot_PreTrained_Demo.ipynb"** or if you want to run demo with **added training** select the notebook titled **"Chatbot_Train_Demo_Combined.ipynb"**
