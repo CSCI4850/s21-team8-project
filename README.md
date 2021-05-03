@@ -14,9 +14,9 @@ Our inspiration for this project was based on previous Chatbots such as [Heek](h
 
 ### Requirements:
 
-- Anaconda
+- [Anaconda](https://www.anaconda.com/products/individual)
 
-- TensorFlow *( will need to install this package on your version of Anaconda)*
+- [TensorFlow](https://www.tensorflow.org/) *( will need to install this package on your version of Anaconda)*
 
 
 ## Installation:
